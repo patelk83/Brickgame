@@ -1,4 +1,5 @@
 package bBracker;
+// This is sample projects
 
 import javax.swing.JFrame;
 
@@ -13,6 +14,7 @@ public class Main {
 		obj.setVisible(true);
 		obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		obj.add(gameplay);
+
 		
 		
 		
