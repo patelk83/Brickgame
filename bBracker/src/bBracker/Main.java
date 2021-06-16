@@ -1,5 +1,5 @@
 package bBracker;
-// This is sample projects
+//this is small game project
 
 import javax.swing.JFrame;
 
